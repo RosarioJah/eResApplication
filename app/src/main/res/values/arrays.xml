@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fading_message">
+        <item>Please select your occupation below</item>
+    </string-array>
+
+    <string-array name="startApp">
+        <item>Start</item>
+    </string-array>
+</resources>

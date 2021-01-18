@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">eRes</string>
+
+    <string-array name="residences">
+        <item>Mannheim Ladies</item>
+        <item>Welgemoed</item>
+        <item>Loggies</item>
+        <item>Eendrag</item>
+        <item>Gymnos</item>
+        <item>Graduanti</item>
+        <item>Welkom</item>
+        <item>Manheim Gentlemen</item>
+        <item>Huistechnikon</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+

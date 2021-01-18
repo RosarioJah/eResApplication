@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".activities.UpdateEventsCalender">
+
+    <CalendarView
+        android:id="@+id/cvEventsCalender"
+        android:layout_width="393dp"
+        android:layout_height="345dp"
+        android:background="@drawable/background"
+        android:soundEffectsEnabled="true" />
+
+    <Button
+        android:id="@+id/btnSubmitAnnouncement"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/gradient"
+        android:linksClickable="true"
+        android:text="Back To Menu"
+        android:textColor="#FFFFFF" />
+</LinearLayout>
